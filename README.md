@@ -12,3 +12,4 @@ codon_bias_stav - this is the Matlab's function 'codon_bias' with a slight chang
 (to mention that the codon appears less than once). 
 This way the CAI value won't be demeged by the 0 that was supposed to be, and the CAI will get very low, but not zero.
 
+GC - calculates the GC content of a sequence.
